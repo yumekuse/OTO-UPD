@@ -1,0 +1,15 @@
+{
+  "version": "0.1.12",
+  "date": "2026-11-26",
+  "notes": [
+    "Your scores are now double-checked by our server (it adds them up again from your PERFECT / GREAT / GOOD / MISS counts). Getting ready for a ranking system!"
+  ],
+  "windows": {
+    "url": "https://raw.githubusercontent.com/yumekuse/OTO-UPD/main/OTO-PC-0.1.12.zip",
+    "size": 77201316
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/yumekuse/OTO-UPD/main/OTO-0.1.12.apk",
+    "size": 66592955
+  }
+}
